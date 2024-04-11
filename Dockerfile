@@ -6,4 +6,5 @@ COPY pom.xml /home/app
 WORKDIR /home/app
 
 RUN mvn clean package
-CMD ["bash", "-c", "java -jar target/CountryProyect-0.0.1-SNAPSHOT.jar"]
+WORKDIR /home/app/target
+CMD ["bash", "-c", "java -jar CountryProyect-0.0.1-SNAPSHOT.jar"]
