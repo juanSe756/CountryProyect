@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Afghanistan",
+    "capital": "Kabul"
+  },
+  {
+    "name": "Algeria",
+    "capital": "Algiers"
+  },
+  {
+    "name": "Argentina",
+    "capital": "Buenos Aires"
+  },
+  {
+    "name": "Australia",
+    "capital": "Canberra"
+  },
+  {
+    "name": "Bangladesh",
+    "capital": "Dhaka"
+  },
+  {
+    "name": "Brazil",
+    "capital": "Brasilia"
+  },
+  {
+    "name": "Canada",
+    "capital": "Ottawa"
+  },
+  {
+    "name": "Chile",
+    "capital": "Santiago"
+  },
+  {
+    "name": "China",
+    "capital": "Beijing"
+  },
+  {
+    "name": "Colombia",
+    "capital": "Bogotá"
+  },
+  {
+    "name": "Egypt",
+    "capital": "Cairo"
+  },
+  {
+    "name": "Ethiopia",
+    "capital": "Addis Ababa"
+  },
+  {
+    "name": "France",
+    "capital": "Paris"
+  },
+  {
+    "name": "Germany",
+    "capital": "Berlin"
+  },
+  {
+    "name": "Greece",
+    "capital": "Athens"
+  },
+  {
+    "name": "India",
+    "capital": "New Delhi"
+  },
+  {
+    "name": "Indonesia",
+    "capital": "Jakarta"
+  },
+  {
+    "name": "Iran",
+    "capital": "Tehran"
+  },
+  {
+    "name": "Italy",
+    "capital": "Rome"
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo"
+  },
+  {
+    "name": "Kenya",
+    "capital": "Nairobi"
+  },
+  {
+    "name": "Mexico",
+    "capital": "Mexico City"
+  },
+  {
+    "name": "Morocco",
+    "capital": "Rabat"
+  },
+  {
+    "name": "Netherlands",
+    "capital": "Amsterdam"
+  },
+  {
+    "name": "Nigeria",
+    "capital": "Abuja"
+  },
+  {
+    "name": "Pakistan",
+    "capital": "Islamabad"
+  },
+  {
+    "name": "Peru",
+    "capital": "Lima"
+  },
+  {
+    "name": "Philippines",
+    "capital": "Manila"
+  },
+  {
+    "name": "Poland",
+    "capital": "Warsaw"
+  },
+  {
+    "name": "Russia",
+    "capital": "Moscow"
+  },
+  {
+    "name": "Saudi Arabia",
+    "capital": "Riyadh"
+  },
+  {
+    "name": "South Africa",
+    "capital": "Pretoria"
+  },
+  {
+    "name": "South Korea",
+    "capital": "Seoul"
+  },
+  {
+    "name": "Spain",
+    "capital": "Madrid"
+  },
+  {
+    "name": "Switzerland",
+    "capital": "Bern"
+  },
+  {
+    "name": "Thailand",
+    "capital": "Bangkok"
+  },
+  {
+    "name": "Turkey",
+    "capital": "Ankara"
+  },
+  {
+    "name": "Ukraine",
+    "capital": "Kyiv"
+  },
+  {
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi"
+  },
+  {
+    "name": "United Kingdom",
+    "capital": "London"
+  },
+  {
+    "name": "United States",
+    "capital": "Washington, D.C."
+  },
+  {
+    "name": "Venezuela",
+    "capital": "Caracas"
+  },
+  {
+    "name": "Vietnam",
+    "capital": "Hanoi"
+  },
+  {
+    "name": "Yemen",
+    "capital": "Sana'a"
+  },
+  {
+    "name": "Zambia",
+    "capital": "Lusaka"
+  },
+  {
+    "name": "Zimbabwe",
+    "capital": "Harare"
+  }
+]
