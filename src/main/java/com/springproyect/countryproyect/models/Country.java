@@ -14,13 +14,6 @@ public class Country {
     public String getCapital() {
         return capital;
     }
-    @Override
-    public String toString() {
-        return "Country{" +
-                "name='" + name + '\'' +
-                ", capital='" + capital + '\'' +
-                '}';
-    }
 }
 
 
