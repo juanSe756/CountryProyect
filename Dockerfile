@@ -1,6 +1,4 @@
 FROM maven:3.8.3-openjdk-17
-ARG GIT_USER=juanSe756
-ARG GIT_TOKEN=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
 
 RUN mvn clean package
 
