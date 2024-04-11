@@ -2,12 +2,9 @@ package com.springproyect.countryproyect.services;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.springproyect.countryproyect.models.Country;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.Resource;
 import org.springframework.stereotype.Service;
-import org.springframework.web.client.RestTemplate;
-
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
