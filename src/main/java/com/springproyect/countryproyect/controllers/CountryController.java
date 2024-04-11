@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/country")
+@RequestMapping("/countries")
 public class CountryController {
 
     private final CountryService countryService;
@@ -17,7 +17,7 @@ public class CountryController {
     public CountryController(CountryService countryService) {
         this.countryService = countryService;
     }
-    @GetMapping("/")
+    @GetMapping("/generate")
     public Country getRandomCountry() {
         return countryService.getRandomCountry();
     }
