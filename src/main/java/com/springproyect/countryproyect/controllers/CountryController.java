@@ -27,6 +27,10 @@ public class CountryController {
             e.printStackTrace();
         }
     }
+    @GetMapping("/host")
+    public String getHost() {
+        return host;
+    }
     @GetMapping("/generate")
     public Country getRandomCountry() {
         return countryService.getRandomCountry();
